@@ -1,0 +1,69 @@
+//Airlines Architecture - required details
+1.Airport - 1,2,3,4,5
+2.flight - 5/Airport
+3.passenger capacity
+4.flight status
+5.server & client side response
+6.passenger booking
+7.Up and down time
+8.seat availability
+9.Branch marker
+10.Message trigger
+11.Booking confirmation
+12.cancel ticket
+13.refund
+14.flight fuel availability
+15.cross check runway clearance
+16.weather condition
+17.booking class - Economic & business
+18.refuel the tank
+19.Engine maitainence
+20.Flight record
+
+//TODO: flight details
+1. Number of available flights
+2. Number of available seats per flight
+3. Number of seats booked per flight
+4. flight uptime and downtime
+5. flight available in dates
+6. Booking details
+7. payment procedure
+8. Booking confirmation
+
+
+//TODO: Customer side
+1. register the required details
+2. enter the source and destination
+3. pick the travel date(optional)
+4. check the available seats in flights and book the flight
+5. do payment
+6. payment success or failure details
+7. booking confirmation
+8. cancel booking
+9. Tracking of flight
+
+//TODO: pilot side
+1. flight controls
+2. fly report
+3. ETA
+4. Runway confirmation
+5. fuel level
+6. Engine speed
+7. weather condition
+8. flight emergency landing
+9. Altitude from ground level
+10. take off status
+
+//TODO: Airport network
+1. Book the flight
+2. seat availability check
+3. seat confirmation
+4. Booking verification
+5. passenger alert
+6. flight details announcement
+7. weather condition
+8. Runway clearance indication
+9. Emergency landing confirmation
+10. Upcoming flight list and arrived flight list
+
+
